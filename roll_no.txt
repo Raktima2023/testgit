@@ -4,3 +4,6 @@ roll 3
 roll 4
 roll 5
 roll 6
+roll 7
+roll 8
+roll .....90
